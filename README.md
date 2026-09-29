@@ -76,4 +76,4 @@ Then open `http://127.0.0.1:8000/docs` for the interactive API docs.
 
 ## Author
 
-**White**, cybersecurity student at OAU
+**Phantom**, cybersecurity student at OAU
